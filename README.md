@@ -322,14 +322,6 @@ promptInput.addEventListener("keydown", function(e) {
 });
 </script>
 
-nova-ai/
-│
-├── index.html
-├── package.json
-├── vercel.json
-│
-└── api/
-    └── chat.js
 
 </body>
 </html>
